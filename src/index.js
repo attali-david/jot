@@ -8,9 +8,7 @@ import { Provider } from 'react-redux'
 import store from './store'
 import {initializeApp} from 'firebase/app'
 import {getFirestore} from 'firebase/firestore'
-import * as OfflinePluginRuntime from 'offline-plugin/runtime';
 
-OfflinePluginRuntime.install();
 
 const firebaseConfig = initializeApp({
   apiKey: "AIzaSyDqYbdgBRW22duve6ayINUiRDw-Svb7n-k",
