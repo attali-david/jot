@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_coreui_coreui_free_react_admin_template=self.webpackChunk_coreui_coreui_free_react_admin_template||[]).push([[905],{93905:function(e,t,r){r.r(t),r.d(t,{default:function(){return n}});r(72791),r(78983),r(93076),r(24846);var c=r(80184),n=function(){return(0,c.jsx)(c.Fragment,{children:(0,c.jsx)("p",{class:"lead text-center",children:"Jot makes it easy for you to write"})})}}}]);
+//# sourceMappingURL=905.9dfa61c7.chunk.js.map
